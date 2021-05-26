@@ -7,7 +7,7 @@ import (
 	gohttp "net/http"
 
 	"github.com/ian-kent/go-log/log"
-	"github.com/mailhog/MailHog-Server/api"
+	"github.com/teck-kian/MailHog-Server/api"
 	"github.com/mailhog/MailHog-Server/config"
 	"github.com/mailhog/MailHog-Server/smtp"
 	"github.com/mailhog/MailHog-UI/assets"
